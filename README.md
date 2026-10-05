@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 **Currently working on:** Scalable Web APIs and Full-Stack Applications.
-- 🌱 **Currently learning:** Node.js, Express.js, and Google Cloud Platform (GCP).
+- 🌱 **Currently learning:** SaaS Architecture, System Design, and Cloud Technologies (GCP).
 - 👯 **Looking to collaborate on:** Open-source backend projects and .NET / React repositories.
 - 🤝 **Looking for help with:** Cloud Architecture and Microservices.
 - 💬 **Ask me about:** ASP.NET Core, React, REST APIs, Database Design, and Clean Architecture.
