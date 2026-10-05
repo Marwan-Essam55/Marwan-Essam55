@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marwan Essam
 
-### 🚀 Backend & Full Stack Software Engineer (.NET | React | Node.js)
+### 🚀 Backend & Full Stack Software Engineer (.NET | React |)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Marwan-Essam55&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
