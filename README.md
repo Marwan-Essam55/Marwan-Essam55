@@ -13,7 +13,7 @@
 - 💬 **Ask me about:** ASP.NET Core, React, REST APIs, Database Design, and Clean Architecture.
 - 📫 **How to reach me:** marwanessam028@gmail.com
 - 🌐 **Live Portfolio:** [marwan-essam55.github.io/New-Portfolio-](https://marwan-essam55.github.io/New-Portfolio-/)
-- 📄 **My Resume:** [View Resume on Google Drive](https://drive.google.com/file/d/174xpExX1iHWQyGUpG4akhGW0eewDtHLX/view)
+- 📄 **My Resume:** [View Resume on Google Drive](https://drive.google.com/file/d/12mkK0qhmFvPPXzGhrEcxcev-WpPrRvF7/view)
 
 ---
 
