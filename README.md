@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marwan Essam
 
-### 🚀 Backend & Full Stack Software Engineer (.NET | React)
+### 🚀 Backend & Full Stack Software Engineer (.NET | Angular)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Marwan-Essam55&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -8,7 +8,7 @@
 
 - 🔭 **Currently working on:** Scalable Web APIs and Full-Stack Applications.
 - 🌱 **Currently learning:** SaaS Architecture, System Design, and Cloud Technologies (GCP).
-- 👯 **Looking to collaborate on:** Open-source backend projects and .NET / React repositories.
+- 👯 **Looking to collaborate on:** Open-source backend projects and .NET / Angular repositories.
 - 🤝 **Looking for help with:** Cloud Architecture and Microservices.
 - 💬 **Ask me about:** ASP.NET Core, React, REST APIs, Database Design, and Clean Architecture.
 - 📫 **How to reach me:** marawan.elbob@gmail.com
@@ -48,6 +48,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
+    <a href="https://www.Angular.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/></a>
