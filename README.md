@@ -10,7 +10,7 @@
 - 🌱 **Currently learning:** SaaS Architecture, System Design, and Cloud Technologies (GCP).
 - 👯 **Looking to collaborate on:** Open-source backend projects and .NET / Angular repositories.
 - 🤝 **Looking for help with:** Cloud Architecture and Microservices.
-- 💬 **Ask me about:** ASP.NET Core, React, REST APIs, Database Design, and Clean Architecture.
+- 💬 **Ask me about:** ASP.NET Core, Angular, REST APIs, Database Design, and Clean Architecture.
 - 📫 **How to reach me:** marwanessam028@gmail.com
 - 🌐 **Live Portfolio:** [marwan-essam55.github.io/New-Portfolio-](https://marwan-essam55.github.io/New-Portfolio-/)
 - 📄 **My Resume:** [View Resume on Google Drive](https://drive.google.com/file/d/12mkK0qhmFvPPXzGhrEcxcev-WpPrRvF7/view)
