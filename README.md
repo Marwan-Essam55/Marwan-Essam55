@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marwan Essam
+# Hi, I'm Marwan Essam
 
 ### 🚀 Backend & Full Stack Software Engineer (.NET | Angular)
 
